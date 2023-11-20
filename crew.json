@@ -62,6 +62,33 @@
     "International": "Rusia",
     "Team": "Straw Hat Pirate",
     "Poster": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Nico_Robin%27s_Current_Wanted_Poster.png/revision/latest/scale-to-width-down/75?cb=20161222000656"
+  },
+     {
+    "no": "8",
+    "name": "Franky",
+    "birth_date": "March 9",
+    "Position": "Shipwright",
+    "International": "America",
+    "Team": "Straw Hat Pirate",
+    "Poster": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Franky%27s_Third_Wanted_Poster.png/revision/latest/scale-to-width-down/100?cb=20220828170811"
+  },
+    {
+    "no": "9",
+    "name": "Brook",
+    "birth_date": "April 3",
+    "Position": "Musician",
+    "International": "Austria",
+    "Team": "Straw Hat Pirate",
+    "Poster": "https://static.wikia.nocookie.net/onepiece/images/0/09/Brook%27s_Concert_Wanted_Poster.png/revision/latest/scale-to-width-down/73?cb=20160619204634"
+  },
+    {
+    "no": "10",
+    "name": "Jinbe",
+    "birth_date": "April 2",
+    "Position": "Helmsman",
+    "International": "India",
+    "Team": "Straw Hat Pirate",
+    "Poster": "https://static.wikia.nocookie.net/onepiece/images/7/71/Jinbe%27s_Current_Wanted_Poster.png/revision/latest/scale-to-width-down/77?cb=20211121074902"
   }
  ]
 }
